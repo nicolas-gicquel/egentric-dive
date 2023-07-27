@@ -1,0 +1,22 @@
+.register {
+    padding-top: 10px;
+    text-decoration: none !important;
+    color: $blue1 !important;
+}
+
+.register:hover {
+    transition: 0.5s;
+    text-decoration: underline;
+    color: $blue2 !important;
+}
+
+.logo2 {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fdcard {
+    background-color: $black !important;
+}

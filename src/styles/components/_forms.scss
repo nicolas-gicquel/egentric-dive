@@ -1,0 +1,24 @@
+  // FORMULAIRE=================
+  select {
+      //   background-color: $blue2 !important;
+      //   color: $White !important;
+
+      option {
+          background-color: $White !important;
+          color: $blue1;
+      }
+
+  }
+
+  .card-body {
+      background-color: rgba($color: $White, $alpha: 0.2) !important;
+  }
+
+  .label {
+      font-weight: bold;
+  }
+
+  .align-items-bottom {
+      display: flex;
+      align-items: flex-end;
+  }

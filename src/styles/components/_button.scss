@@ -1,0 +1,106 @@
+  // BOUTON================
+
+  .btnBlue2 {
+      background-color: $blue3 !important;
+      border-radius: 5px;
+      border: none !important;
+      padding: 4px 6px 4px 6px;
+      margin-bottom: 5px;
+      color: $blue2;
+  }
+
+  .btnBlue2:hover {
+      transition: 0.5s;
+      background-color: $blue1 !important;
+      color: $White !important;
+      // font-weight: bold;
+
+  }
+
+  .btnBlue3 {
+      background-color: $Gray2 !important;
+      border-radius: 5px;
+      border: none !important;
+      padding: 4px 6px 4px 6px;
+      margin-bottom: 5px;
+      color: $blue2 !important;
+  }
+
+  .btnBlue3:hover {
+      transition: 0.5s;
+      background-color: $Gray1 !important;
+      color: $White !important;
+      // font-weight: bold;
+
+  }
+
+  .btnRed {
+      background-color: $red2 !important;
+      border-radius: 5px;
+      border: none !important;
+      padding: 4px 6px 4px 6px;
+
+      color: $blue2 !important;
+      margin-bottom: 5px;
+
+  }
+
+  .btnRed:hover {
+      transition: 0.5s;
+      background-color: $red1 !important;
+      color: $White !important;
+      //   font-weight: bold;
+
+  }
+
+  .btnBlue {
+      background-color: $blue1 !important;
+      border-radius: 5px;
+      border: none !important;
+      padding: 4px 6px 4px 6px;
+      margin-bottom: 5px;
+      color: $White !important;
+  }
+
+  .btnBlue:hover {
+      transition: 0.5s;
+      background-color: $blue2 !important;
+      color: $White !important;
+      //   font-weight: bold;
+
+  }
+
+  .btnWhite {
+      background-color: $White !important;
+      border-radius: 15px !important;
+      border-color: $blue1 !important;
+      padding: 4px 6px 4px 6px;
+      margin-bottom: 5px;
+      color: $blue1 !important;
+      font-weight: bold !important;
+  }
+
+  .btnWhite:hover {
+      transition: 0.5s;
+      background-color: $blue1 !important;
+      color: $White !important;
+      //   font-weight: bold;
+
+  }
+
+  .btnGreen {
+      background-color: $green2 !important;
+      border-radius: 5px;
+      border: none !important;
+      padding: 4px 6px 4px 6px;
+      margin-bottom: 5px;
+      color: $blue2 !important;
+  }
+
+  .btnGreen:hover {
+      transition: 0.5s;
+      background-color: $green1 !important;
+      color: $White !important;
+      //   font-weight: bold;
+
+  }

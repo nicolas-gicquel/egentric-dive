@@ -1,0 +1,22 @@
+.footer-container {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: $blue2 !important;
+    padding: 2px;
+    color: $blue4 !important;
+    font-size: 0.6rem;
+    text-align: center;
+
+}
+
+.lienFooter {
+    color: $blue4 !important;
+    text-decoration: none;
+}
+
+.lienFooter:hover {
+    transition: 0.5s;
+    color: $White !important;
+}
